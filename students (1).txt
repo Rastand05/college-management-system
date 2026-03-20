@@ -1,0 +1,4 @@
+1,Kurt,Le,3.82
+2,Eddie,Vedder,3.42
+3,James,Hetfield,2.8
+4,Jimmy,Page,3.71
