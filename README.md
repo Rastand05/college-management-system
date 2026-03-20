@@ -51,7 +51,7 @@ Then run:
 students.txt
 
 ```
-1,Curtis,Lear,3.82
+1,Kurt,Le,3.80
 2,Eddie,Vedder,3.42
 ```
 
